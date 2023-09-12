@@ -1,0 +1,101 @@
+---
+object: card
+id: 74319066-c386-4284-bf81-af2dcd70f493
+oracle_id: edb455f4-8dc9-4b7c-b25c-cb51b7dfbb41
+multiverse_ids: []
+name: Chaos Orb
+lang: en
+released_at: '1996-04-01'
+uri: https://api.scryfall.com/cards/74319066-c386-4284-bf81-af2dcd70f493
+scryfall_uri: https://scryfall.com/card/o90p/1/chaos-orb?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/7/4/74319066-c386-4284-bf81-af2dcd70f493.jpg?1661824087
+  normal: https://cards.scryfall.io/normal/front/7/4/74319066-c386-4284-bf81-af2dcd70f493.jpg?1661824087
+  large: https://cards.scryfall.io/large/front/7/4/74319066-c386-4284-bf81-af2dcd70f493.jpg?1661824087
+  png: https://cards.scryfall.io/png/front/7/4/74319066-c386-4284-bf81-af2dcd70f493.png?1661824087
+  art_crop: https://cards.scryfall.io/art_crop/front/7/4/74319066-c386-4284-bf81-af2dcd70f493.jpg?1661824087
+  border_crop: https://cards.scryfall.io/border_crop/front/7/4/74319066-c386-4284-bf81-af2dcd70f493.jpg?1661824087
+mana_cost: "{2}"
+cmc: 2.0
+type_line: Artifact
+oracle_text: "{1}, {T}: If Chaos Orb is on the battlefield, flip Chaos Orb onto the
+  battlefield from a height of at least one foot. If Chaos Orb turns over completely
+  at least once during the flip, destroy all nontoken permanents it touches. Then
+  destroy Chaos Orb."
+colors: []
+color_identity: []
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: banned
+  pauper: not_legal
+  vintage: banned
+  penny: not_legal
+  commander: banned
+  oathbreaker: banned
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: banned
+  oldschool: not_legal
+  premodern: not_legal
+  predh: banned
+games:
+- paper
+reserved: true
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: true
+promo: false
+reprint: true
+variation: false
+set_id: 3442b58d-6354-4c71-8608-6abe469ab54b
+set: o90p
+set_name: Oversized 90's Promos
+set_type: memorabilia
+set_uri: https://api.scryfall.com/sets/3442b58d-6354-4c71-8608-6abe469ab54b
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Ao90p&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/o90p?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/74319066-c386-4284-bf81-af2dcd70f493/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aedb455f4-8dc9-4b7c-b25c-cb51b7dfbb41&unique=prints
+collector_number: '1'
+digital: false
+rarity: rare
+card_back_id: 80e6ae77-74c3-450d-a0a2-01f3168d7712
+artist: Mark Tedin
+artist_ids:
+- 9ee9a9cc-c09e-486f-918b-69f80cbc4188
+illustration_id: 42f959e6-2b79-41a2-aaef-a28b25aa961f
+border_color: black
+frame: '1997'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Chaos+Orb&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Chaos+Orb&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Chaos+Orb
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/search/magic/product?productLineName=magic&q=Chaos+Orb&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall&view=grid
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Chaos+Orb&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Chaos+Orb&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

@@ -1,0 +1,105 @@
+---
+object: card
+id: 4f2517e1-7b11-4bcb-816a-bc39001b325f
+oracle_id: 4e81596c-9225-43d1-bd35-798212144f2c
+multiverse_ids: []
+name: Juzám Djinn
+lang: en
+released_at: '1996-09-01'
+uri: https://api.scryfall.com/cards/4f2517e1-7b11-4bcb-816a-bc39001b325f
+scryfall_uri: https://scryfall.com/card/o90p/3/juz%C3%A1m-djinn?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/4/f/4f2517e1-7b11-4bcb-816a-bc39001b325f.jpg?1661824131
+  normal: https://cards.scryfall.io/normal/front/4/f/4f2517e1-7b11-4bcb-816a-bc39001b325f.jpg?1661824131
+  large: https://cards.scryfall.io/large/front/4/f/4f2517e1-7b11-4bcb-816a-bc39001b325f.jpg?1661824131
+  png: https://cards.scryfall.io/png/front/4/f/4f2517e1-7b11-4bcb-816a-bc39001b325f.png?1661824131
+  art_crop: https://cards.scryfall.io/art_crop/front/4/f/4f2517e1-7b11-4bcb-816a-bc39001b325f.jpg?1661824131
+  border_crop: https://cards.scryfall.io/border_crop/front/4/f/4f2517e1-7b11-4bcb-816a-bc39001b325f.jpg?1661824131
+mana_cost: "{2}{B}{B}"
+cmc: 4.0
+type_line: Creature — Djinn
+oracle_text: At the beginning of your upkeep, Juzám Djinn deals 1 damage to you.
+power: '5'
+toughness: '5'
+colors:
+- B
+color_identity:
+- B
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: true
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: true
+promo: false
+reprint: true
+variation: false
+set_id: 3442b58d-6354-4c71-8608-6abe469ab54b
+set: o90p
+set_name: Oversized 90's Promos
+set_type: memorabilia
+set_uri: https://api.scryfall.com/sets/3442b58d-6354-4c71-8608-6abe469ab54b
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Ao90p&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/o90p?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/4f2517e1-7b11-4bcb-816a-bc39001b325f/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A4e81596c-9225-43d1-bd35-798212144f2c&unique=prints
+collector_number: '3'
+digital: false
+rarity: rare
+flavor_text: '"Expect my visit when the darkness comes. The night I think is best
+  for hiding all." —Ouallada'
+card_back_id: 80e6ae77-74c3-450d-a0a2-01f3168d7712
+artist: Mark Tedin
+artist_ids:
+- 9ee9a9cc-c09e-486f-918b-69f80cbc4188
+illustration_id: 57454837-9b65-4079-88d8-659e7a3284e3
+border_color: black
+frame: '1997'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 21527
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Juz%C3%A1m+Djinn&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Juz%C3%A1m+Djinn&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Juz%C3%A1m+Djinn
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/search/magic/product?productLineName=magic&q=Juz%C3%A1m+Djinn&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall&view=grid
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Juz%C3%A1m+Djinn&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Juz%C3%A1m+Djinn&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
